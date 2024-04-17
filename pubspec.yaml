@@ -30,8 +30,8 @@ dev_dependencies:
   lint: ^2.0.1
   flutter_test:
     sdk: flutter
-  flutter_localizations:
-    sdk: flutter
+#  flutter_localizations:
+#    sdk: flutter
 
 flutter:
   plugin:
